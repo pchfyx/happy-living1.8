@@ -151,7 +151,6 @@ Your Firebase is already configured in `js/firebase-config.js`:
    ```
 
 #### Option C: Other Hosting Services
-- **Render** : Choose Github repo
 - **Netlify**: Drag and drop your folder
 - **Vercel**: Connect your GitHub repo
 - **GitHub Pages**: Push to gh-pages branch
@@ -329,5 +328,4 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ using Firebase**#   h a p p y - l i v i n g 1 . 8  
- 
+**Built with ❤️ using Firebase**
